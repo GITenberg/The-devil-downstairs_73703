@@ -1,0 +1,42 @@
+_repo: The-devil-downstairs_73703
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Costello, P. F.
+    gutenberg_agent_id: '57189'
+    url: http://www.gutenberg.org/2009/agents/57189
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73703'
+language: en
+pgterms:marc905: 20240320165317costello
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the January 1958 issue of Fantastic magazine.
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Devil -- Fiction'
+- !lcsh 'Detectives -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The devil downstairs
+url: http://www.gutenberg.org/ebooks/73703
